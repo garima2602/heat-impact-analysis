@@ -64,7 +64,7 @@ By understanding the risks and taking proactive measures, we can mitigate the ef
 
 # Steps to clone this Web App
 ### 1. Clone this Repository
-```git clone ```
+```git clone https://github.com/garima2602/heat-impact-analysis.git```
 ### 2. Create Virtual Environment and Install Dependencies
 - ```python3 -m venv myenv```
 - ```.\myenv\Scripts\activate```
